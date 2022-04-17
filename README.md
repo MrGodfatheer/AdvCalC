@@ -1,2 +1,2 @@
 # Advcal-C
-An advanced arithmetic calculator programmed in C
+An advanced arithmetic, logical, programmer's, scientific, convertional & UI friendly calculator
